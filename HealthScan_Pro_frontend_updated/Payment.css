@@ -1,0 +1,101 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Nunito", sans-serif;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+.bold-word {
+    font-weight: bold;
+}
+
+header a {
+    color: #33325e;
+}
+
+header {
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.6);
+}
+.section{
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.top-header-row {
+    max-width: 1280px;
+}
+.dark-blue-word {
+    color: #706f8d;
+    text-decoration: none;
+}
+
+.dark-blue-word:hover {
+    color: #21213f;
+    border-color: #33325e;
+}
+.dark-blue-button {
+    color: #706f8d;
+    border-color: #33325e;
+}
+
+.dark-blue-button:hover {
+    background-color: #5543ad;
+    border-color: #5543ad;
+}
+.personal-info-card{
+    margin-top: 10px;
+}
+main{
+    padding-top: 20px;
+}
+.wrapper-main{
+    padding-top: 73px;
+    background: linear-gradient(145deg, #ca4492, #35325f);
+    height: 1050px;
+}
+.section-title{
+    color:#c7358b;
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+}
+.payment-form{
+    padding-top: 20px;
+    width: 530px;
+    background-color: #ffffff;
+}
+.payment-detail{
+    color: #33325e;
+}
+.puprple-dot{
+    background-color: #5469ff;
+    width: 10px;
+    height: 10px;
+}
+
+.finish-div{
+    text-align: center;
+}
+.finish-button{
+    margin-top: 40px;
+    width: 200px;
+    height: 70px;
+    background-color: #5543ad;
+    border-radius: 40px;
+    color: #ffffff;
+    font-size: x-large;
+    box-shadow: 0 10px 10px 0.1px rgba(2, 12, 23, 0.297);
+}
+.finish-button:hover{
+    background-color: #3a2d7d;
+    color: #ffffff;
+    box-shadow: 0px 0px 10px rgba(2, 12, 23, 0.463);
+}
